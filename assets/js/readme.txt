@@ -1,0 +1,1 @@
+Main JS contains showToast and auto flash reading.
